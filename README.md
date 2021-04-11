@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Ar Rafi</h1>
-<h3 align="center">Seeking R&D position in NLP, ML and DeepLearning.</h3>
+<h3 align="center">curious homo sapiens, likes to ask lots of questions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanarrafi" alt="farhanarrafi" /> </p>
 
