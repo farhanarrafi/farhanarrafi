@@ -18,8 +18,9 @@
 <img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/vagrant.svg" alt="vagrant" width="40" height="40"/></p>
+<img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberrypi" width="40" height="40"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanarrafi&layout=compact&hide=html" alt="farhanarrafi" /></p>
 
