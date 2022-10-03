@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="html5" width="40" height="40"/>
@@ -15,7 +15,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" alt="mariadb" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="photoshop" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/>
