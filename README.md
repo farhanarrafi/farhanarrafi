@@ -8,7 +8,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/html-5.svg" alt="html5" width="40" height="40"/>
+<img src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg" alt="html5" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="laravel" width="40" height="40"/> 
