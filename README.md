@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Ar Rafi</h1>
-<h3 align="center">curious homo sapiens, likes to ask lots of questions</h3>
+<h3 align="center">Doing PhD in CSE @ UNT | Former Engineer [ Android | iOS | Web ]</h3>
 
 <p align="left"> 
 I am Farhan Ar Rafi, a Graduate Student studying Computer Science at the University of North Texas. 
