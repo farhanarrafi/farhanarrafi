@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Farhan Ar Rafi</h1>
 <h3 align="center">curious homo sapiens, likes to ask lots of questions</h3>
 
+<p align="left"> 
+I am Farhan Ar Rafi, a Graduate Student studying Computer Science at the University of North Texas. 
+I have just started my Ph.D. career in Fall 2023 and have only fixed a research direction till now. My research would be directed towards the following aspects:
+<ul>
+  <li>Accessibility Research for visually and physically impaired Software Developers and Students</li>
+  <li>Software Engineering Research for running ML on low-powered, cheap hardware</li>
+</ul>
+</br>
+I have 7+ years of experience as a Software Engineer with a proven track record of developing robust applications. I have 7 years of experience in Android App development with 3+ years in Android Platform Development (AOSP). The apps that I have worked on are used globally. 
+My top achievements include the Best Employee Award(2020) from BJIT Limited and the Vice Chancellor's Award for Best Undergraduate Thesis(2016). I am highly skilled in problem-solving in Software Engineering. My understanding and expertise range from Mobile app to Web app development and across the domain of Machine Learning.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanarrafi" alt="farhanarrafi" /> </p>
 
 <p align="left"><img src="https://cdn.worldvectorlogo.com/logos/android.svg" alt="android" width="40" height="40"/> 
