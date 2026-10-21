@@ -3,10 +3,10 @@
 
 <p align="left"> 
 I am Farhan Ar Rafi, a Graduate Student studying Computer Science at the University of North Texas. 
-I have just started my Ph.D. career in Fall 2023 and have only fixed a research direction till now. My research would be directed towards the following aspects:
+I am currently working in two research directions:
 <ul>
-  <li>Accessibility Research for visually and physically impaired Software Developers and Students</li>
-  <li>Software Engineering Research for running ML on low-powered, cheap hardware</li>
+  <li>Increasing Skills in Accessibility Through Integration in the Undergraduate Computer Science and Information Technology Curricula (NSF Award # 2235104)(2 Poster presentations, 2 papers under review)</li>
+  <li>Enhancing mobility and spatial awareness of blind and visually impaired individuals by combining ML, HCI, state-of-the-art real-time multimodal environment-sensing technologies, and advanced haptic interfaces.</li>
 </ul>
 I have 7+ years of experience as a Software Engineer with a proven track record of developing robust applications. I have 7 years of experience in Android App development with 3+ years in Android Platform Development (AOSP). The apps that I have worked on are used globally. 
 My top achievements include the Best Employee Award(2020) from BJIT Limited and the Vice Chancellor's Award for Best Undergraduate Thesis(2016). I am highly skilled in problem-solving in Software Engineering. My understanding and expertise range from Mobile app to Web app development and across the domain of Machine Learning.
